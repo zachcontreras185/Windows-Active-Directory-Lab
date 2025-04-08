@@ -33,7 +33,7 @@ The Windows Active Directory (AD) Lab project aimed to simulate a corporate Wind
 
 
 ![VirtualBox_project-px2-dc_02_04_2025_00_34_27](https://github.com/user-attachments/assets/685d920f-fefc-4d86-ab45-d4eb2583a100)
-*Ref 3: Each service up and running. I configured the ADDC, DHCP, AND DNS servers for ease of user integration and ease of network & ip-address management."
+*Ref 3: Each service up and running. I configured the ADDC, DHCP, AND DNS servers for ease of user integration and ease of network & ip-address management."*
 
 
 
@@ -42,6 +42,7 @@ The Windows Active Directory (AD) Lab project aimed to simulate a corporate Wind
 
 ![VirtualBox_project-px2-linux-client_02_04_2025_00_59_42](https://github.com/user-attachments/assets/29511f05-4eb9-4cdb-b744-b93afaa4ee37)
 ![VirtualBox_project-px2-linux-client_02_04_2025_01_01_02](https://github.com/user-attachments/assets/6d6a65e2-ba14-4b32-92e6-75898b5f987b)
+
 *Ref 4: Connecting a Ubuntu Linux machine to the CORP.project-px2-dc.com DC through the CLI. User was created under the name "Jane Doe".*
 
 
