@@ -1,4 +1,4 @@
-# WINDOWS ACTIVE DIRECTORY LAB
+# Windows Active Directory Lab
 
 ## Objective
 The Windows Active Directory (AD) Lab project aimed to simulate a corporate Windows server enviroment complete with users and groups all under one domain. The primary focus was to gain hands-on experience and understanding in deploying a secure and efficient AD infrastructure while ensuring proper integration with other Windows Server services. This includes creating and managing user accounts, organizational units, and group policies; which are all tasks completeted in this lab. 
@@ -15,11 +15,6 @@ The Windows Active Directory (AD) Lab project aimed to simulate a corporate Wind
 - Windows 11
 - Ubuntu Linux 
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+## Screenshots
 
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
+![VirtualBox_project-px2-dc_01_04_2025_17_42_06](https://github.com/user-attachments/assets/3e9c7288-bd2c-4e95-b9e6-0281193f2180)
