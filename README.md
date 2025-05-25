@@ -42,11 +42,32 @@ The Windows Active Directory (AD) Lab project aimed to simulate a corporate Wind
 
 
 
-
-![VirtualBox_project-px2-linux-client_02_04_2025_00_59_42](https://github.com/user-attachments/assets/29511f05-4eb9-4cdb-b744-b93afaa4ee37)
-![VirtualBox_project-px2-linux-client_02_04_2025_01_01_02](https://github.com/user-attachments/assets/6d6a65e2-ba14-4b32-92e6-75898b5f987b)
+![VirtualBox_project-px2-linux-client_02_04_2025_01_01_02](https://github.com/user-attachments/assets/2cce69be-d6a7-4277-88d5-d90d21023a4e)
+![VirtualBox_project-px2-linux-client_02_04_2025_01_00_45](https://github.com/user-attachments/assets/95a2b390-e816-4e9f-8f80-db27fe216921)
+![VirtualBox_project-px2-linux-client_02_04_2025_00_59_42](https://github.com/user-attachments/assets/37b484a7-c7d0-4d0a-bfa8-14eed7aada0f)
 
 *Ref 4: Connecting a Ubuntu Linux machine to the CORP.project-px2-dc.com DC through the CLI. User was created under the name "Jane Doe".*
+
+
+
+
+
+
+![VirtualBox_project-px2-dc_25_05_2025_14_30_20](https://github.com/user-attachments/assets/aad0348c-3b59-4fcf-ad4f-9bf0bffb5fda)
+![VirtualBox_project-px2-dc_25_05_2025_14_30_11](https://github.com/user-attachments/assets/95267089-6e25-41f0-a679-eda848306af6)
+![VirtualBox_project-px2-dc_25_05_2025_14_29_48](https://github.com/user-attachments/assets/098b0c14-0828-4e82-acd7-2c7e7332042f)
+
+*Ref 5: Creation of OUs and users within them*
+
+
+
+
+
+![VirtualBox_project-px2-dc_25_05_2025_14_22_01](https://github.com/user-attachments/assets/8792ec8c-ac00-4fca-a77d-53c3394a0b18)
+
+*Ref 6: DHCP scope created for the domain*
+
+
 
 
 
