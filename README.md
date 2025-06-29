@@ -8,7 +8,7 @@ The Windows Active Directory (AD) Lab project aimed to simulate a corporate Wind
 - Proficency in the creation and management of user accounts, groups, and organizational units (OUs)
 - Implementation of security settings and software deployment through Group Policy Objects (GPOs)
 - Configuring DNS and DHCP settings in Active Directory
-- Connected various Windows ans Linux machines to the domain, assigning them a user and password
+- Connected various Windows and Linux machines to the domain, assigning them a user and password
 
 ### Tools Used
 - Windows Server 2025 as the server manager OS
